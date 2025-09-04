@@ -3,7 +3,7 @@
 A full-stack AI application designed to engage users in philosophical dialogue. The agent uses a Retrieval-Augmented Generation (RAG) pipeline to provide answers sourced from a curated library of philosophical texts and then poses a new, Socratic question to stimulate deeper thought.
 
 ![Socratic Agent Demo](demo.gif)
-*(You will replace this line after creating a GIF of the app in action!)*
+
 
 ---
 
